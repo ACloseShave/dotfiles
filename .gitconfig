@@ -1,6 +1,6 @@
 [user]
-	name = Demis Rizzotto
-	email = demis.rizzotto@exxoss.com
+	name = Ryan Shaver
+	email = ryan.shaver@live.com
 
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
@@ -178,4 +178,4 @@
 
     insteadOf = "gist:"
 [commit]
-	template = /Users/deri/.stCommitMsg
+	template = /Users/razor/.stCommitMsg
